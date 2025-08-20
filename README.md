@@ -10,7 +10,7 @@ Période : 7th month into Ada
 
 ## Stack  
 
-- Languages / Frameworks : HTML — CSS (Tailwind) — JS (Vue.js) — PHP (Laravel)   
+- Languages / Frameworks : HTML — CSS (Tailwind) — JS (Vue.js) 
 - BDD : MySQL  
 - Tools / Services : VSCode — Sanctum — Eloquent — Pinia — Postman — Docker 
 
