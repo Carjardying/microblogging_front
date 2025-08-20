@@ -1,5 +1,7 @@
 # Draw Sphere
 
+** WIP ** 
+
 Microblogging app for painters.
 
 Type : Group — 3 pers
@@ -27,4 +29,4 @@ Add the picture directly from the device and not via url.
 Edit and delete a post
 
 
-### Lien vers le [BackEnd](https://github.com/DelphineJozeau/microblogging_back)
+### Lien vers le [BackEnd](https://github.com/Carjardying/microblogging_back)
